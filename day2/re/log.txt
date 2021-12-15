@@ -1,0 +1,23 @@
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(849) 547941355952: getAvailableNewListeners listeners size : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerInfoImple.cpp(24) 547941355952: ManagerInfoImpleBasic
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(835) 547941355952: getAvailableNewListeners listeners_ size getAvailableNewListeners : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(849) 547941355952: getAvailableNewListeners listeners size : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerInfoImple.cpp(24) 547941355952: ManagerInfoImpleBasic
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(835) 547941355952: getAvailableNewListeners listeners_ size getAvailableNewListeners : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(849) 547941355952: getAvailableNewListeners listeners size : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerInfoImple.cpp(24) 547941355952: ManagerInfoImpleBasic
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(835) 547941355952: getAvailableNewListeners listeners_ size getAvailableNewListeners : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(849) 547941355952: getAvailableNewListeners listeners size : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerInfoImple.cpp(24) 547941355952: ManagerInfoImpleBasic
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(835) 547941355952: getAvailableNewListeners listeners_ size getAvailableNewListeners : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(849) 547941355952: getAvailableNewListeners listeners size : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerInfoImple.cpp(24) 547941355952: ManagerInfoImpleBasic
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(835) 547941355952: getAvailableNewListeners listeners_ size getAvailableNewListeners : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(849) 547941355952: getAvailableNewListeners listeners size : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerInfoImple.cpp(24) 547941355952: ManagerInfoImpleBasic
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(835) 547941355952: getAvailableNewListeners listeners_ size getAvailableNewListeners : 5
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(849) 547941355952: getAvailableNewListeners listeners size : 1
+[D] Nov-25-2021 05:44:37 896/app_name ManagerInfoImple.cpp(24) 547941355952: ManagerInfoImpleBasic
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(835) 547941355952: getAvailableNewListeners listeners_ size getAvailableNewListeners : 3
+[D] Nov-25-2021 05:44:37 896/app_name ManagerFile.cpp(849) 547941355952: getAvailableNewListeners listeners size : 1
+[D] Nov-25-2021 05:44:38 896/app_name ManagerInfoImple.cpp(24) 547941355952: ManagerInfoImpleBasic
