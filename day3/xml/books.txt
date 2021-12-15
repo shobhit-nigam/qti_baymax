@@ -1,0 +1,57 @@
+XML Developer's Guide
+An in-depth look at creating applications
+      with XML.
+----------
+Midnight Rain
+A former architect battles corporate zombies,
+      an evil sorceress, and her own childhood to become queen
+      of the world.
+----------
+Maeve Ascendant
+After the collapse of a nanotechnology
+      society in England, the young survivors lay the
+      foundation for a new society.
+----------
+Oberon's Legacy
+In post-apocalypse England, the mysterious
+      agent known only as Oberon helps to create a new life
+      for the inhabitants of London. Sequel to Maeve
+      Ascendant.
+----------
+The Sundered Grail
+The two daughters of Maeve, half-sisters,
+      battle one another for control of England. Sequel to
+      Oberon's Legacy.
+----------
+Lover Birds
+When Carla meets Paul at an ornithology
+      conference, tempers fly as feathers get ruffled.
+----------
+Splish Splash
+A deep sea diver finds true love twenty
+      thousand leagues beneath the sea.
+----------
+Creepy Crawlies
+An anthology of horror stories about roaches,
+      centipedes, scorpions  and other insects.
+----------
+Paradox Lost
+After an inadvertant trip through a Heisenberg
+      Uncertainty Device, James Salway discovers the problems
+      of being quantum.
+----------
+Microsoft .NET: The Programming Bible
+Microsoft's .NET initiative is explored in
+      detail in this deep programmer's reference.
+----------
+MSXML3: A Comprehensive Guide
+The Microsoft MSXML3 parser is covered in
+      detail, with attention to XML DOM interfaces, XSLT processing,
+      SAX and more.
+----------
+Visual Studio 7: A Comprehensive Guide
+Microsoft Visual Studio 7 is explored in depth,
+      looking at how Visual Basic, Visual C++, C#, and ASP+ are
+      integrated into a comprehensive development
+      environment.
+----------
