@@ -1,0 +1,2 @@
+import linecache
+help(linecache)
