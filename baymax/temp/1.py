@@ -1,2 +1,0 @@
-import linecache
-help(linecache)
