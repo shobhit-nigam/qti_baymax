@@ -1,0 +1,12 @@
+---
+# comments
+name: Tony Stark
+nickname: ironman
+file_path:
+   - passwords: /Desktop/some_folder
+   - account: /Desktop/xyz
+   - personal: /home
+hobbies:
+   - flying
+   - philantropist
+   - build gadgets
